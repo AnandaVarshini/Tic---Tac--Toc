@@ -1,10 +1,5 @@
-# Initialize empty list
 lst = []
-
-# Read number of commands
 n = int(input())
-
-# Process each command
 for _ in range(n):
     command = input().split()
 
